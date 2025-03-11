@@ -1,0 +1,14 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "This file is being created for the purpose of initializing the express package inside our VSC.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sunny",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
